@@ -54,7 +54,6 @@
                 <ul class="links">
                     <li><a href="index.php">Inicio</a></li>
                     <li><a href="products.php">Produtos</a></li>
-                    <li><a href="contacts.php">Contatos</a></li>
                     <li><a href="sobre.php">Sobre</a></li>
                     <li><a href="user.php">Conta</a></li>
                 </ul>
@@ -150,8 +149,8 @@
             <p>Baixe o nosso aplicativo</p>
             <p>Baixe o nosso aplicativo para android e IOS</p>
             <div>
-                <img src="/images/app-store.png" alt="">
-                <img src="/images/play-store.png" alt="">
+                <img src="images/app-store.png" alt="">
+                <img src="images/play-store.png" alt="">
             </div>
         </div>
 

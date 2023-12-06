@@ -15,7 +15,6 @@
                 <ul class="links">
                     <li><a href="index.php">Inicio</a></li>
                     <li><a href="products.php">Produtos</a></li>
-                    <li><a href="contacts.php">Contatos</a></li>
                     <li><a href="sobre.php">Sobre</a></li>
                     <li><a href="user.php">Conta</a></li>
                 </ul>
@@ -40,7 +39,7 @@
                         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Obcaecati, culpa. 
                         Nulla inventore, iusto nisi voluptatibus voluptatum, praesentium voluptates sapiente,
                         auquam voluptas repudiandae optio soluta.</p>
-                        <button>Compre agora &#8594;</button>
+                        <a href="products.php">Compre agora &#8594;</a>
                     </div>
                     <div class="header-bottom-side-right">
                         <img src="images/cafe.jpg" alt="funcionário colocando café">
@@ -62,91 +61,39 @@
 
         <div>
             <div class="page-inner-content">
-                <h3 class="section-title">Promoções do Dia</h3>
+                <h3 class="section-title">Alguns itens do cardápio</h3>
                 <div class="subtitle-underline"></div>
                 <div class="cols cols-4">
-                    <div class="product">
-                        <img src="/images/products/product-4.png" alt="">
-                        <p class="product-name">Café Irlandes</p>
+                    <div class="product"><a href="products.php" style="color: #000;">
+                        <img src="images\1cafe-laccino.png" alt="" width="300px" height="300px">
+                        <p class="product-name">Café laccino</p>
                         <p class="rate">&#9733;&#9733;&#9733;&#9733;&#9734;</p>
-                        <p class="product-price">7,00 <span>R$</span></p>
+                        <p class="product-price">9,00 <span>R$</span></p>
+                        </a>
                     </div>
-                    <div class="product">
-                        <img src="/images/products/product-5.png" alt="">
-                        <p class="product-name">Café Irlandes</p>
+                    <div class="product"><a href="products.php" style="color: #000;">
+                        <img src="images\1pao-queijo.png" alt=""width="300px" height="300px">
+                        <p class="product-name">Pão de queijo</p>
                         <p class="rate">&#9733;&#9733;&#9733;&#9733;&#9734;</p>
-                        <p class="product-price">7,00 <span>R$</span></p>
+                        <p class="product-price">4,00 <span>R$</span></p>
+                        </a>
                     </div>
-                    <div class="product">
-                        <img src="/images/products/product-4.png" alt="">
-                        <p class="product-name">Café Irlandes</p>
+                    <div class="product"><a href="products.php" style="color: #000;">
+                        <img src="images\1cappuccino.png" alt=""width="300px" height="300px">
+                        <p class="product-name">Cappuccino</p>
                         <p class="rate">&#9733;&#9733;&#9733;&#9733;&#9734;</p>
-                        <p class="product-price">7,00 <span>R$</span></p>
+                        <p class="product-price">12,00 <span>R$</span></p>
+                        </a>
                     </div>
-                    <div class="product">
-                        <img src="/images/products/product-4.png" alt="">
-                        <p class="product-name">Café Irlandes</p>
+                    <div class="product"><a href="products.php" style="color: #000;">
+                        <img src="images\1bolo-choc.png" alt=""width="300px" height="300px">
+                        <p class="product-name">Bolo de chocolate</p>
                         <p class="rate">&#9733;&#9733;&#9733;&#9733;&#9734;</p>
-                        <p class="product-price">7,00 <span>R$</span></p>
+                        <p class="product-price">4,00 <span>R$</span></p>
+                        </a>
                     </div>
                 </div>
             </div>
-
-            <div class="page-inner-content">
-                <h3 class="section-title">Mais Vendidos</h3>
-                <div class="subtitle-underline"></div>
-                <div class="cols cols-4">
-                    <div class="product">
-                        <img src="/images/products/product-4.png" alt="">
-                        <p class="product-name">Café Irlandes</p>
-                        <p class="rate">&#9733;&#9733;&#9733;&#9733;&#9734;</p>
-                        <p class="product-price">7,00 <span>R$</span></p>
-                    </div>
-                    <div class="product">
-                        <img src="/images/products/product-5.png" alt="">
-                        <p class="product-name">Café Irlandes</p>
-                        <p class="rate">&#9733;&#9733;&#9733;&#9733;&#9734;</p>
-                        <p class="product-price">7,00 <span>R$</span></p>
-                    </div>
-                    <div class="product">
-                        <img src="/images/products/product-4.png" alt="">
-                        <p class="product-name">Café Irlandes</p>
-                        <p class="rate">&#9733;&#9733;&#9733;&#9733;&#9734;</p>
-                        <p class="product-price">7,00 <span>R$</span></p>
-                    </div>
-                    <div class="product">
-                        <img src="/images/products/product-4.png" alt="">
-                        <p class="product-name">Café Irlandes</p>
-                        <p class="rate">&#9733;&#9733;&#9733;&#9733;&#9734;</p>
-                        <p class="product-price">7,00 <span>R$</span></p>
-                    </div>
-                    <div class="product">
-                        <img src="/images/products/product-4.png" alt="">
-                        <p class="product-name">Café Irlandes</p>
-                        <p class="rate">&#9733;&#9733;&#9733;&#9733;&#9734;</p>
-                        <p class="product-price">7,00 <span>R$</span></p>
-                    </div>
-                    <div class="product">
-                        <img src="/images/products/product-5.png" alt="">
-                        <p class="product-name">Café Irlandes</p>
-                        <p class="rate">&#9733;&#9733;&#9733;&#9733;&#9734;</p>
-                        <p class="product-price">7,00 <span>R$</span></p>
-                    </div>
-                    <div class="product">
-                        <img src="/images/products/product-4.png" alt="">
-                        <p class="product-name">Café Irlandes</p>
-                        <p class="rate">&#9733;&#9733;&#9733;&#9733;&#9734;</p>
-                        <p class="product-price">7,00 <span>R$</span></p>
-                    </div>
-                    <div class="product">
-                        <img src="/images/products/product-4.png" alt="">
-                        <p class="product-name">Café Irlandes</p>
-                        <p class="rate">&#9733;&#9733;&#9733;&#9733;&#9734;</p>
-                        <p class="product-price">7,00 <span>R$</span></p>
-                    </div>
-                </div>
-            </div>
-        </div>
 
         <div class="brown-background">
             <div class="header-inner-content">
@@ -154,10 +101,10 @@
                         <div class="header-bottom-side-left">
                             <h2>SOBREMESA</h2>
                             <p>Venha adoçar o seu dia com nossas sobremesa!</p>
-                            <button>Ver agora &#8594;</button>
+                            <a href="products.php">Ver agora &#8594;</a>
                         </div>
                     <div class="header-bottom-side-right">
-                        <img src="images/exclusive.png" alt="">
+                        <img src="images\1bolo-mora.png" alt="">
                     </div>
                 </div>
             </div>
