@@ -105,7 +105,7 @@ if (isset($_GET['id'])){
             </a>
                 <a href="pagamento/cartao.php" style="color: #fff;">
                 <img src="images/cartao.png" alt="" width="200px" height="120px" style="padding-bottom: 20px;">
-                <p style="margin-left:2%;">Cartão (DEÉBITO/CRÉDITO)</p>
+                <p style="margin-left:2%;">Cartão (DÉBITO/CRÉDITO)</p>
             </a>
                 <a href="pagamento/boleto.php" style="color: #fff;">
                 <img src="images/boleto.png" alt="" width="200px" height="120px" style="padding-bottom: 20px;">
